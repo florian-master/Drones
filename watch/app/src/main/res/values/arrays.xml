@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menus">
+        <item>wifimanager</item>
+        <item>permissions</item>
+        <item>buttons</item>
+        <item>mapinfo</item>
+        <item>loadmap</item>
+    </string-array>
+
+    <string-array name="wifimanager">
+        <item>wifimanager</item>
+        <item>Choix du point d\'accès WiFi</item>
+    </string-array>
+
+
+    <string-array name="permissions">
+        <item>permissions</item>
+        <item>Demande de permissions GPS</item>
+    </string-array>
+
+    <string-array name="buttons">
+        <item>buttons</item>
+        <item>Interactions avec le drone</item>
+    </string-array>
+
+    <string-array name="mapinfo">
+        <item>mapinfo</item>
+        <item>Carte</item>
+    </string-array>
+
+    <string-array name="loadmap">
+        <item>loadmap</item>
+        <item>Telechargement d\'une zone pour utilisation hors-ligne</item>
+    </string-array>
+</resources>

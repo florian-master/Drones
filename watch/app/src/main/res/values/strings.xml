@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drone watch</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZXBhdWxhcmQiLCJhIjoiY2tsd2oxNTVsMmpsbjJ1bndwMnRzZ3NydiJ9.GDSAf6jxJQ_1VHxRaVC-pg</string>
+</resources>
